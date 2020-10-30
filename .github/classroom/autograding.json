@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello World!",
+      "setup": "",
+      "run": "maven clean test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 40
+    }
+  ]
+}
